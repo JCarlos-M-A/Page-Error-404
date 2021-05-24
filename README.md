@@ -1,2 +1,2 @@
 # Page-Error-404
-Creada con elementos SVG.js
+Pagina animada creada con elementos SVG.js
