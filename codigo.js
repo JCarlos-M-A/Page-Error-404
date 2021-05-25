@@ -120,3 +120,7 @@ function FullScreen() {
     }
   }
 }
+
+goHome(){
+  alert("A casa pete, te vas por la sombrita");
+}
