@@ -121,6 +121,6 @@ function FullScreen() {
   }
 }
 
-goHome(){
+function goHome(){
   alert("A casa pete, te vas por la sombrita");
 }
